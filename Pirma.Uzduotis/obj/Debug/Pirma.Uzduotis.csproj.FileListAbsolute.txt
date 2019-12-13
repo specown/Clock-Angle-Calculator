@@ -1,0 +1,14 @@
+C:\Users\Lukas\Desktop\Alma\1\Pirma.Uzduotis\Pirma.Uzduotis\bin\Debug\Pirma.Uzduotis.exe.config
+C:\Users\Lukas\Desktop\Alma\1\Pirma.Uzduotis\Pirma.Uzduotis\bin\Debug\Pirma.Uzduotis.exe
+C:\Users\Lukas\Desktop\Alma\1\Pirma.Uzduotis\Pirma.Uzduotis\bin\Debug\Pirma.Uzduotis.pdb
+C:\Users\Lukas\Desktop\Alma\1\Pirma.Uzduotis\Pirma.Uzduotis\obj\Debug\Pirma.Uzduotis.csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\Alma\1\Pirma.Uzduotis\Pirma.Uzduotis\obj\Debug\Pirma.Uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\Alma\1\Pirma.Uzduotis\Pirma.Uzduotis\obj\Debug\Pirma.Uzduotis.exe
+C:\Users\Lukas\Desktop\Alma\1\Pirma.Uzduotis\Pirma.Uzduotis\obj\Debug\Pirma.Uzduotis.pdb
+C:\Users\Lukas\Desktop\ALNA\1\Pirma.Uzduotis\Pirma.Uzduotis\bin\Debug\Pirma.Uzduotis.exe.config
+C:\Users\Lukas\Desktop\ALNA\1\Pirma.Uzduotis\Pirma.Uzduotis\bin\Debug\Pirma.Uzduotis.exe
+C:\Users\Lukas\Desktop\ALNA\1\Pirma.Uzduotis\Pirma.Uzduotis\bin\Debug\Pirma.Uzduotis.pdb
+C:\Users\Lukas\Desktop\ALNA\1\Pirma.Uzduotis\Pirma.Uzduotis\obj\Debug\Pirma.Uzduotis.csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\ALNA\1\Pirma.Uzduotis\Pirma.Uzduotis\obj\Debug\Pirma.Uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\ALNA\1\Pirma.Uzduotis\Pirma.Uzduotis\obj\Debug\Pirma.Uzduotis.exe
+C:\Users\Lukas\Desktop\ALNA\1\Pirma.Uzduotis\Pirma.Uzduotis\obj\Debug\Pirma.Uzduotis.pdb
